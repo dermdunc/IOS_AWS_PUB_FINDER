@@ -26,7 +26,7 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in 70857251_Pub_CrawlTests");
+    //STFail(@"Unit tests are not implemented yet in 70857251_Pub_CrawlTests");
 }
 
 @end
